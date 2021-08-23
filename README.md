@@ -1,4 +1,8 @@
 ### Hi there 👋
+Welcome to my GitHub profile! I am Chirag, a final year student at University of Waterloo studying Computer Science and specializing in Artificial Intelligence.
+- 🌱 I’m currently learning about Machine Learning, Networks, Databases and Software Design.
+- 📫 How to reach me: https://www.linkedin.com/in/chirag-jindal/
+- 😄 Pronouns: He/Him
 
 <!--
 **chirag1712/chirag1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
